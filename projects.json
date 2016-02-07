@@ -24,4 +24,14 @@
 	"title": "SMS Interfacing for Mapping Worldwide Edible Plants",
 	"projectID": "fallingFruit",
 	"body:" "Falling Fruit is an open-technology nonprofit mapping the world's edible plants and developing online platforms to promote urban foraging and hyperlocal food. Falling Fruit allows foragers to find and map the location of urban edible plants and users to seek out and eat delicious invasives. This project is to implement a standalone SMS-based interface for non-smartphone users, using, e.g., Twilio."
+	"skills": ["Angular", "Cordova", "Jade", "LESS", "CoffeeScript"],
+	"info": ""
+    },
+    {
+	"title": "Developing Profiles Based on a Quiz",
+	"projectID": "ableThrive",
+	"body:" "AbleThrive.com is a one-stop platform featuring original and curated resources for living well with a disability. We have a network of 70+ blogs, organizations, hospitals and companies that serve as our sources and we bring the best content to one place and organize it to make it easier for families impacted by disabilities to find the information they need to thrive. AbleThrive aims to have profile pages that allow for someone to carry the details of their situation and location to help recommend and display content, also enabling users to keep track of content they find useful - in a way building their own manual to living in their situation. Users would build their account through taking a quiz that allows them to define their situation."
+	"skills": ["Design"],
+	"info": ""
+    }
 ]
