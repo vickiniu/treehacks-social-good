@@ -20,4 +20,8 @@
         "skills": ["Python", "Javascript"],
         "info": ""
     },
+    {
+	"title": "SMS Interfacing for Mapping Worldwide Edible Plants",
+	"projectID": "fallingFruit",
+	"body:" "Falling Fruit is an open-technology nonprofit mapping the world's edible plants and developing online platforms to promote urban foraging and hyperlocal food. Falling Fruit allows foragers to find and map the location of urban edible plants and users to seek out and eat delicious invasives. This project is to implement a standalone SMS-based interface for non-smartphone users, using, e.g., Twilio."
 ]
