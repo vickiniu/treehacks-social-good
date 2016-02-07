@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Identifying and Helping Veterans At Risk of Suicide",
+        "projectID": "veterans",
+        "body": "Suicide among veterans is 50% higher than the national average. Studies have been conducted
+        to understand the clinical and behavioral risk factors behind suicide in the United States. Serious mental health problems are significant contributor to suicidal behavior among veterans, and the public at large. Using openly available data sets (surveys, government reports, etc) can we better understand and predict suicide among veterans as a foundation to provide more targeted and proactive care?",
+        "skills": ["Data Science"],
+        "info":
+    },
+    {
+        "title": "Quill Writer: Free Literacy Tools",
+        "projectID": "literacyQuill",
+        "body": "Quill.org is a free literacy tool that helps students develop their writing, grammar, and proofreading skills. Quill is currently being used by over 100,000 students nationwide, and it is a nonprofit, open source organization. We currently feature two tools focused on grammar and proofreading, and we are now building educational tools focused on vocabulary and storytelling. These apps, Quill Writer and WordLike, are currently in alpha testing, and we are looking for designers and hackers to fork our apps and build their own mechanics into them. You can play them at quillwriter.org and wordlike.org.\n\nhttps://github.com/empirical-org/wordlike\nhttps://github.com/empirical-org/quill-writer\n\nBoth projects are angular projects. We also have Ruby, PHP and React tools under development. Please check out the issue trackers to find projects or feel free to hack in your own features: https://github.com/empirical-org\n\nTo be in touch and recieve permission to use our data set, message us our slack channel here: http://community.quill.org/join-slack/"
+        "skills": ["Design", "Ruby", "PHP", "React.js"]
+    },
+    {
+        "title": "Educational Translation for Parent-Teacher Communication",
+        "projectID": "talkingPts",
+        "body": "Many low-income families, especially those from immigrant backgrounds, face immense language barriers when communicating with teachers. TalkingPoints is an organization that builds a communication platform for parents to engage in their child's learning, empowering teachers to support families and building ownership of education within families themselves. This project is to build a translation tool on existing platform that's able to incorporate specific translations of educational or class-specific content for teachers to communicate with parents across languages",
+        "skills": ["Python", "Javascript"]
+    },
+]
